@@ -1,0 +1,10 @@
+
+b
+java:S2095"GUse try-with-resources or close this "ResultSet" in a "finally" clause.(‚µŠ¯8Œ¦»Àª.
+e	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8Œ¦»Àª.
+C
+java:S1148"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8Œ¦»Àª.
+e
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(ëÊò™üÿÿÿÿ8Œ¦»Àª.
+e
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(û•›óýÿÿÿÿ8Œ¦»Àª.

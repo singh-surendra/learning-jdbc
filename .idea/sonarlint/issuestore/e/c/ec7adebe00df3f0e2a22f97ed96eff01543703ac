@@ -1,0 +1,43 @@
+
+i
+java:S2095z"GUse try-with-resources or close this "ResultSet" in a "finally" clause.(Ù«ÆÃùÿÿÿÿ8œìÿÅª.
+g	java:S1126"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8œìÿÅª.
+E
+java:S1148e"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8œìÿÅª.
+F
+java:S1148‰"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8œìÿÅª.
+E
+java:S1148P"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8œìÿÅª.
+E
+java:S1148q"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8œìÿÅª.
+E
+java:S11485"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8œìÿÅª.
+h	java:S112Š"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8œìÿÅª.
+g	java:S112f"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8œìÿÅª.
+H
+java:S1168="+Return an empty collection instead of null.(¥¹ï8œìÿÅª.
+g	java:S112Q"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8œìÿÅª.
+i
+java:S2095("GUse try-with-resources or close this "ResultSet" in a "finally" clause.(Ù«ÆÃùÿÿÿÿ8œìÿÅª.
+g	java:S112r"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8œìÿÅª.
+j
+java:S2095™"GUse try-with-resources or close this "ResultSet" in a "finally" clause.(Ù«ÆÃùÿÿÿÿ8äè…Æª.
+j
+java:S1192/"HDefine a constant instead of duplicating this literal "address" 3 times.(ªóöşøÿÿÿÿ8äè…Æª.
+m
+java:S1192+"KDefine a constant instead of duplicating this literal "first_name" 3 times.(øÖà†øÿÿÿÿ8äè…Æª.
+l
+java:S1192,"JDefine a constant instead of duplicating this literal "last_name" 3 times.(¸Ôóíúÿÿÿÿ8äè…Æª.
+j
+java:S11922"HDefine a constant instead of duplicating this literal "zipcode" 3 times.(ÌëğÎùÿÿÿÿ8äè…Æª.
+c
+java:S11921"FDefine a constant instead of duplicating this literal "state" 3 times.(ƒñ–ù8äè…Æª.
+h
+java:S1192-"FDefine a constant instead of duplicating this literal "email" 3 times.(ãÍŸ¹ıÿÿÿÿ8äè…Æª.
+h
+java:S1192."FDefine a constant instead of duplicating this literal "phone" 3 times.(úîŸŞûÿÿÿÿ8äè…Æª.
+i
+java:S1192*"LDefine a constant instead of duplicating this literal "customer_id" 3 times.(İ¨Ú¾8äè…Æª.
+h	java:S112©"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8äè…Æª.
+F
+java:S1148¨"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8äè…Æª.

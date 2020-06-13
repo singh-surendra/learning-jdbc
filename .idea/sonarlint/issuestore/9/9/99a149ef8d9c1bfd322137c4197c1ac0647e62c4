@@ -1,0 +1,43 @@
+
+k
+java:S1192"IDefine a constant instead of duplicating this literal "password" 8 times.(ùÄæªýÿÿÿÿ8»û§Åª.
+F
+java:S1148Š"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8»û§Åª.
+E
+java:S1148"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8»û§Åª.
+[	java:S106—"9Replace this use of System.out or System.err by a logger.(ë×ª™ýÿÿÿÿ8»û§Åª.
+Z	java:S106E"9Replace this use of System.out or System.err by a logger.(üû”ûúÿÿÿÿ8»û§Åª.
+V	java:S106¥"9Replace this use of System.out or System.err by a logger.(êÔöù8 ·—Æª.
+F
+java:S1148™"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8»û§Åª.
+[	java:S106§"9Replace this use of System.out or System.err by a logger.(ÖéÎ©ÿÿÿÿÿ8 ·—Æª.
+Z	java:S106U"9Replace this use of System.out or System.err by a logger.(¼§†£ýÿÿÿÿ8»û§Åª.
+[	java:S106ˆ"9Replace this use of System.out or System.err by a logger.(ÍÕ§§ùÿÿÿÿ8»û§Åª.
+F
+java:S1148«"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8æÓüÅª.
+E
+java:S1148I"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8»û§Åª.
+g
+java:S1192"JDefine a constant instead of duplicating this literal "localhost" 8 times.(ÜËôñ8»û§Åª.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(êì¦†ùÿÿÿÿ8»û§Åª.
+Z	java:S106s"9Replace this use of System.out or System.err by a logger.(™ŠŒöýÿÿÿÿ8»û§Åª.
+k
+java:S1192"IDefine a constant instead of duplicating this literal "postgres" 8 times.(ùÄæªýÿÿÿÿ8»û§Åª.
+d
+java:S2095"GUse try-with-resources or close this "ResultSet" in a "finally" clause.(ÙõüÔ8»û§Åª.
+[	java:S106¨"9Replace this use of System.out or System.err by a logger.(«—öÎþÿÿÿÿ8 ·—Æª.
+Z	java:S106x"9Replace this use of System.out or System.err by a logger.(™ŠŒöýÿÿÿÿ8»û§Åª.
+Z	java:S106Y"9Replace this use of System.out or System.err by a logger.(¼§†£ýÿÿÿÿ8»û§Åª.
+i
+java:S2095"GUse try-with-resources or close this "Statement" in a "finally" clause.(é°Áµþÿÿÿÿ8»û§Åª.
+m
+java:S1192"KDefine a constant instead of duplicating this literal "hplussport" 8 times.(ùÄæªýÿÿÿÿ8»û§Åª.
+E
+java:S1148\"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8»û§Åª.
+Z	java:S106u"9Replace this use of System.out or System.err by a logger.(™ŠŒöýÿÿÿÿ8»û§Åª.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(üÝ°ç8»û§Åª.
+E
+java:S11487"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8»û§Åª.
+E
+java:S1148{"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8»û§Åª.
+V	java:S106¤"9Replace this use of System.out or System.err by a logger.(•áÎÏ8æÓüÅª.

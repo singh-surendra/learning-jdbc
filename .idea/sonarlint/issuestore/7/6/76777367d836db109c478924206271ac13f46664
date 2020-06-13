@@ -1,0 +1,19 @@
+
+Y
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(œ£´Ì
+š
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(°š´åùÿÿÿÿ
+?
+java:S1168"+Return an empty collection instead of null.(¥¹ï
+<
+java:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+[
+java:S2095"GUse try-with-resources or close this "ResultSet" in a "finally" clause.(„‡–
+^	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+b
+java:S2095"GUse try-with-resources or close this "ResultSet" in a "finally" clause.(„‡–8ùÃŸÅª.
+e	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8ùÃŸÅª.
+C
+java:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ùÃŸÅª.
+c
+java:S2259"CA "NullPointerException" could be thrown; "order" is nullable here.(›‡”±øÿÿÿÿ8ùÃŸÅª.
